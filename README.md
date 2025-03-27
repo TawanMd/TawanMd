@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Olá meu nome é Thauan Matheus, Python <3 🐍 Java ☕🧑‍🎓</h2>
+<h2 align="left">Hi 👋! Olá meu nome é Thauan Matheus, Python <3 🐍 Java ☕studying</h2>
 
 ###
 
